@@ -1,0 +1,11 @@
+Model Information:
+* title:	LION WIZARD
+* source:	https://sketchfab.com/3d-models/lion-wizard-66db774cf22c4b71a7a40b0852c83066
+* author:	Nichvi (https://sketchfab.com/Nichvi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LION WIZARD" (https://sketchfab.com/3d-models/lion-wizard-66db774cf22c4b71a7a40b0852c83066) by Nichvi (https://sketchfab.com/Nichvi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
